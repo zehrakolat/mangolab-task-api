@@ -21,7 +21,7 @@ Bu proje, Mangolab.ai işe alım süreci için hazırlanan mini case çalışmas
 3. **Testleri Çalıştırma:**
 Yazılan test senaryolarını kontrol etmek için:
    ```bash
-npm test
+   npm test
 
 Planlama: Önce hangi verilere ve endpoint'lere ihtiyacım olduğunu belirledim.
 
