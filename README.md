@@ -16,14 +16,13 @@ Bu proje, Mangolab.ai işe alım süreci için hazırlanan mini case çalışmas
    ```bash
    npm install
 2. **Uygulamayı başlatın:** 
- ' ```bash
+   ```bash
    npm start
-''''
 3. **Testleri Çalıştırma:**
 Yazılan test senaryolarını kontrol etmek için:
-' ```bash
+   ```bash
 npm test
-'
+
 Planlama: Önce hangi verilere ve endpoint'lere ihtiyacım olduğunu belirledim.
 
 Yapı: Kodun okunabilir ve geliştirilebilir olması için klasörleri (routes, controllers) ayırarak modüler bir yapı kurdum.
