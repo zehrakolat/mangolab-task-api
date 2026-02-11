@@ -34,7 +34,7 @@ AI Desteği: Proje iskeletini oluştururken ve test (Jest) ayarlarını yaparken
 Son Kontrol: AI çıktısını doğrudan kullanmak yerine, kodları inceleyip gerekli validasyonları ekledim ve kendi mantığıma göre düzenledim.
 
 klasör yapısı şu şekilde:
-
+```bash
 task-api/
 ├── src/
 │   ├── controllers/
